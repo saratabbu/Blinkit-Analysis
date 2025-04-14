@@ -22,3 +22,16 @@ To evaluate Blinkit's business operations through key performance indicators (KP
     
     Average Customer Rating
     The mean rating given by customers for purchased items, offering a measure of customer satisfaction and product quality.
+
+
+
+Chart's Requirements
+
+1. Total Sales by Fat Content
+2. Total Sales by Item Type
+3. Fat Content by Outlet for Total Sales
+4. Total Sales by Outlet Establishment
+5. Sales by Outlet Size
+6. Sales by Outlet Location
+7. All Metrics by Outlet Type
+
