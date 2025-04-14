@@ -24,13 +24,13 @@ To evaluate Blinkit's business operations through key performance indicators (KP
 
 
 
-Chart's Requirements
+Chart's Requirements based on business requirements
 
-1. Total Sales by Fat Content
-2. Total Sales by Item Type
-3. Fat Content by Outlet for Total Sales
-4. Total Sales by Outlet Establishment
-5. Sales by Outlet Size
-6. Sales by Outlet Location
-7. All Metrics by Outlet Type
+1. Total Sales by Fat Content - Donut Chart.
+2. Total Sales by Item Type - Bar Chart.
+3. Fat Content by Outlet for Total Sales - Stacked Column Chart.
+4. Total Sales by Outlet Establishment -Line Chart.
+5. Sales by Outlet Size - Donut Chart.
+6. Sales by Outlet Location - Funnel Map
+7. All Metrics by Outlet Type - Matrix Card
 
