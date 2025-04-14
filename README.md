@@ -2,8 +2,7 @@
 
 Blinkit Sales Performance Analysis
 
-This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Power BI, we visualize key metrics and derive actionable insights to identify opportunities for business optimization and strategic growth.
-
+This project involves analyzing Blinkit's sales, customer satisfaction, and inventory data using both Excel and Power BI. Working with both tools allowed me to observe key differences in data handling and dashboard creation—Excel offered ease in data manipulation, while Power BI excelled in interactive and scalable visualizations. The project also highlighted challenges in data cleaning and integration, providing valuable insights into each platform's strengths.
 
 Objective
 
