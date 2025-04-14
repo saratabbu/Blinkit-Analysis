@@ -19,6 +19,6 @@ To evaluate Blinkit's business operations through key performance indicators (KP
 
     Number of Items Sold
     The total count of distinct items sold, reflecting the breadth of product movement.
-
-  Average Customer Rating
-  The mean rating given by customers for purchased items, offering a measure of customer satisfaction and product quality.
+    
+    Average Customer Rating
+    The mean rating given by customers for purchased items, offering a measure of customer satisfaction and product quality.
